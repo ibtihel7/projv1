@@ -1,0 +1,27 @@
+.intro{
+  padding-top: 40% !important
+
+  /* margin-bottom: 50% !important */
+/* margin-bottom: -10% !important  */
+}
+
+/* .container{ */
+
+.discover{
+
+  padding-top: 1%
+}
+
+.header{
+  margin-bottom: 1%
+}
+.food{
+  font-family: 'Playfair Display', serif;
+  font-style: italic;
+  font-size: 80px!important;
+  font-weight: 700;
+  color: #4a4f59 !important;
+  line-height: 0.75;
+  z-index: 0;
+
+}
