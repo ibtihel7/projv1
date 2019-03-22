@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class Rooms1  extends Component {
+class Outdoor  extends Component {
   
   render() { 
     return (  
@@ -15,13 +15,13 @@ class Rooms1  extends Component {
               <div className="rooms_slider_container">
                 <div className="owl-carousel owl-theme rooms_slider">
                   <div className="slide">
-                    <div className="background_image" style={{backgroundImage: 'url(images/rooms_1.jpg)'}} />
+                    <div className="background_image" style={{backgroundImage: 'url(images/OUT.jpg)'}} />
                   </div>
                   <div className="slide">
-                    <div className="background_image" style={{backgroundImage: 'url(images/rooms_1.jpg)'}} />
+                    <div className="background_image" style={{backgroundImage: 'url(images/OUTT.jpg)'}} />
                   </div>
                   <div className="slide">
-                    <div className="background_image" style={{backgroundImage: 'url(images/rooms_1.jpg)'}} />
+                    <div className="background_image" style={{backgroundImage: 'url(images/OU.jpg)'}} />
                   </div>
                 </div>
               </div>
@@ -29,30 +29,31 @@ class Rooms1  extends Component {
             <div className="col-xl-6 order-xl-2 order-1">
               <div className="rooms_right_content">
                 <div className="section_title">
-                  {/* <div>Rooms</div> */}
-                  <h1>OUTDOOR</h1>
+                  <h1>OUT DOOR</h1>
                 </div>
                 <div className="rooms_text">
-                  <p>Maecenas sollicitudin tincidunt maximus. Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scelerisque at. Quisque eget sem non ligula consectetur ultrices in quis augue. Donec imperd iet leo eget tortor dictum, eget varius eros sagittis. Curabitur tempor dignissim massa ut faucibus sollicitudin tinci dunt maximus. Morbi tempus malesuada erat sed pellentesque.</p>
+                  <p>If you've decided to have an outdoor ceremony, congratulations!
+                    <br/> We provide all the options you wanted! </p>
                 </div>
                 <div className="rooms_list">
                   <ul>
                     <li className="d-flex flex-row align-items-center justify-content-start">
                       <img src="images/check.png" alt />
-                      <span>Morbi tempus malesuada erat sed</span>
+                      <span>Daytime/Evening</span>
+                    </li>
+                  
+                    <li className="d-flex flex-row align-items-center justify-content-start">
+                      <img src="images/check.png" alt />
+                      <span>On the beach / By The Lake / In the Garden</span>
                     </li>
                     <li className="d-flex flex-row align-items-center justify-content-start">
                       <img src="images/check.png" alt />
-                      <span>Tempus malesuada erat sed</span>
-                    </li>
-                    <li className="d-flex flex-row align-items-center justify-content-start">
-                      <img src="images/check.png" alt />
-                      <span>Pellentesque vel neque finibus elit</span>
+                      <span>Outdoor ceremony menu</span>
                     </li>
                   </ul>
                 </div>
-                <div className="rooms_price">$129/<span>Night</span></div>
-                <div className="button rooms_button"><a href="#">book now</a></div>
+                {/* <div className="rooms_price">$129/<span>Night</span></div> */}
+                <div className="button rooms_button"><a href="#">See all the options</a></div>
               </div>
             </div>
           </div>
@@ -67,4 +68,4 @@ class Rooms1  extends Component {
     
 
 
-export default Rooms1;
+export default Outdoor;

@@ -3,14 +3,10 @@ import React, { Component } from 'react';
 class Galery extends Component {
   
   render() { 
-    return (  
-      
-              <div>
+    return (  <div className="ourwork">
 
-<div className="intro">
-        <div className="container">
-        <h1>OUR WORK</h1>
-        
+
+   
           <div className="row gallery_row">
             <div className="col">
               {/* Gallery */}
@@ -379,9 +375,8 @@ class Galery extends Component {
             </div>
           </div>
         </div>
-      </div>
-
-                    </div>
+ 
+                 
                   );
                 }
               };

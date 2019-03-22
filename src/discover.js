@@ -16,23 +16,31 @@ class Discover  extends Component {
             <div className="row">
               <div className="col-lg-5">
                 <div className="section_title">
-                  <div>HHHHH</div>
+                  {/* <div>HHHHH</div> */}
+                  <br/> <br/> <br/>
                   <h1>iFood EVENT</h1>
                 </div>
               </div>
             </div>
             <div className="row discover_row">
-              <div className="col-lg-5">
+              <div className="col-lg-6">
                 <div className="discover_highlight">
-                  <p>Thanks to our partetrens we provide  a double-story, indoor and outdoor venue  with a  very classy, impressive and chic atmosphere,
-And  with panoramic city view
+                  <p>Thanks to our partners we provide  a double-story, indoor and outdoor venue  with a  very classy, impressive and chic atmosphere,
+and with panoramic view
 
 </p>
                 </div>
               </div>
-              <div className="col-lg-7">
+              <div className="col-lg-6">
                 <div className="discover_text">
-                  <p>Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scelerisque at. Quisque eget sem non ligula consectetur ultrices in quis augue. Donec imperd iet leo eget tortor dictum, eget varius eros sagittis. Curabitur tempor dignissim massa ut faucibus sollicitudin tinci dunt maximus. Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis. Donec pharetra mattis nulla, id laoreet neque scelerisque at. Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scelerisque at. Quisque eget sem non ligula consectetur ultrices in quis augue.</p>
+                  <p> We will cater your event celebration in a hotel or restaurant, with prepared food from our partners eatery to serve as a buffet with the best decoration:
+               <br/>   Various candles, chandeliers,  fairy lights, light bulbs, lamps, and paper lanterns are all various choices for an atmospheric lighting. 
+<br/>Apart from flowers, colour accents will also be brought in with textiles we use for table linen, table runners,Silk and satin napkins witch make a look noble,
+bringing exclusivity and luxe into the setting.
+<p>All of them make setting more cosy and warm, encouraging all present to enjoy and relax.</p>
+<br/>
+                    
+                  </p>
                 </div>
               </div>
             </div>

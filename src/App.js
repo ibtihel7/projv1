@@ -5,16 +5,19 @@ import Nav from "./nav";
 import Logoo from "./logoo" ;
 import Testimonial from "./testimonial"
 import Discover from './discover';
-import Rooms from './rooms';
-import Rooms1 from './rooms1';
+import Indoor from './indoor';
+import Outdoor from './outdoor';
 import Intro from './intro';
 import Reserv from'./reserv';
 import Introduction from './introduction';
-import Galery from './galery'
+import Galery from './galery';
+import Foodintro from './foodintro'
 
-import Galeryintro from './galeryintro'
-// import Image from 'C:/Users/ASUS/Desktop/projjjjjjjjjjjjj/src/3.jpg'
-import Im from './im'
+// import Galeryintro from './galeryintro'
+import Listavis from './listavis';
+import Listoccasion from './listeoccasion'
+import Listfood from './listefood';
+import Galeryintro from './galeryintrod';
 class App extends Component {
   render() {
     return (
@@ -23,17 +26,22 @@ class App extends Component {
       {/* <Image /> */}
       {/* <Im/> */}
       <Introduction/>
-      <Galeryintro/>
+      {/* <Galeryintro/> */}
+      <Listoccasion/>
       <Discover/>
       <Logoo/>
       {/* <Reserv/> */}
       {/* <Intro/> */}
-      <Rooms1/>
-      <Rooms/>
+      <Indoor/>
+      <Outdoor/>
+      <Foodintro/>
+      <Listfood/>
+      <Galeryintro/>
       <Galery />
       {/* <br/> */}
-
+    
       <Testimonial/>
+      <Listavis/>
     
       <Footer/>
       

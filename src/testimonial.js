@@ -27,31 +27,34 @@ class Testimonial  extends Component {
                   {/* Slide */}
                   <div>
                     <div className="testimonial_text text-center">
-                      <p>Maecenas sollicitudin tincidunt maximus. Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scelerisque at. Quisque eget sem non ligula consectetur ultrices in quis augue. Donec imperd iet leo eget tortor dictum, eget varius eros sagittis. Curabitur tempor dignissim massa ut faucibus sollicitudin tinci dunt maximus. Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scele risque at. Quisque eget.</p>
+                      <p>On behalf of Gomycode, we would like to thank iFood for participating in our Annual anniversary. We really appreciate your delicious appticisers, everything was delicious! We received lots of great comments about your services. Thank you for helping to make this year’s event the most successful ever.</p>
                     </div>
                     <div className="testimonial_author text-center">
-                      <div className="testimonial_author_image"><img src="images/author_1.jpg" alt /></div>
-                      <div className="testimonial_author_name"><a href="#">Maria Smith,</a><span> Client</span></div>
+                      <div className="testimonial_author_image"><img src="images/ibtihel.jpg" alt /></div>
+                      <div className="testimonial_author_name"><a href="#">Ibtihel,</a><span> Client</span></div>
                     </div>
                   </div>
                   {/* Slide */}
                   <div>
                     <div className="testimonial_text text-center">
-                      <p>Maecenas sollicitudin tincidunt maximus. Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scelerisque at. Quisque eget sem non ligula consectetur ultrices in quis augue. Donec imperd iet leo eget tortor dictum, eget varius eros sagittis. Curabitur tempor dignissim massa ut faucibus sollicitudin tinci dunt maximus. Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scele risque at. Quisque eget.</p>
+                      <p>I engaged iFood to cater my wedding ceremony , the food was amazing! You did everything to make our cocktail party and reception dinner run smoothly and deliciously</p>
+                      <p>Thank you iFood!</p>
+
                     </div>
                     <div className="testimonial_author text-center">
-                      <div className="testimonial_author_image"><img src="images/author_1.jpg" alt /></div>
-                      <div className="testimonial_author_name"><a href="#">Maria Smith,</a><span> Client</span></div>
+                      <div className="testimonial_author_image"><img src="images/amen.jpg" alt /></div>
+                      <div className="testimonial_author_name"><a href="#">AmenAllah,</a><span> Client</span></div>
                     </div>
                   </div>
                   {/* Slide */}
                   <div>
                     <div className="testimonial_text text-center">
-                      <p>Maecenas sollicitudin tincidunt maximus. Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scelerisque at. Quisque eget sem non ligula consectetur ultrices in quis augue. Donec imperd iet leo eget tortor dictum, eget varius eros sagittis. Curabitur tempor dignissim massa ut faucibus sollicitudin tinci dunt maximus. Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scele risque at. Quisque eget.</p>
+                      <p> Last year, I choose iFood to celebrate my birthday, it was amazing strating from the cake to the drink.      My guests were really happy of the delicious food and the luxury of the restaurant . </p>
+                      <p> iFood makes my day  memorable! </p>
                     </div>
                     <div className="testimonial_author text-center">
-                      <div className="testimonial_author_image"><img src="images/author_1.jpg" alt /></div>
-                      <div className="testimonial_author_name"><a href="#">Maria Smith,</a><span> Client</span></div>
+                      <div className="testimonial_author_image"><img src="images/khouloud.jpg" alt /></div>
+                      <div className="testimonial_author_name"><a href="#">Khouloud,</a><span> Client</span></div>
                     </div>
                   </div>
                 </div>
